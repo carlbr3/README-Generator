@@ -18,8 +18,9 @@
   To install the dependencies, run npm i
 
   ## Usage
-  Users should clone the repository, run “npm install” to install dependencies, and then run “npm start” to start the application locally.
   [Video](https://drive.google.com/file/d/10dZTy39GpLwUWAY-XnTRNkHNeLDh7fif/view)
+  Users should clone the repository, run “npm install” to install dependencies, and then run “npm start” to start the application locally.
+ 
 
   ## License 
   
