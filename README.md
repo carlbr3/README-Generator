@@ -26,7 +26,7 @@
   
   [License](https://opensource.org/licenses/MIT)
   > ***NOTE***
-  > "This application is distributed under the MIT, which means users are free to modify, distribute, and use the software for commercial purposes, as long as they include the original copyright notice and license terms in any derived works." Used VSCODE, google, and Stackoverflow for assistance with the starter code provided for this challenge. 
+  > "This application is distributed under the MIT, which means users are free to modify, distribute, and use the software for commercial purposes, as long as they include the original copyright notice and license terms in any derived works. Used VSCODE, google, and Stackoverflow for assistance VSCODE was used with the starter code provided for this challenge along with co-pilot assistance, google and stackoverflow for reference to content for contributing, test, and description sections. " 
 
   ## Contributing
   We welcome contributions! Please fork the repository, create a new branch, make your changes, and submit a pull request. Make sure to follow our contribution guidelines.
